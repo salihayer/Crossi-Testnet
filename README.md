@@ -7,7 +7,7 @@
 
 
 
- * [Topluluk Twitter](https://twitter.com/PETERQU98249367))<br>
+ * [Twitter](https://twitter.com/PETERQU98249367)<br>
  * [Crossfi Website](https://crossfi.org/)<br>
  * [Blockchain Explorer](https://test.xfiscan.com/)<br>
  * [Discord](https://discord.gg/crossfi)<br>
